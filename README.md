@@ -1,6 +1,14 @@
 # Violet-Plymouth
 A Violet Plymouth theme
 
+## how 2 install
+just run this one command
+
+```bash
+sudo git clone https://github.com/HNoise7676/Violet-Plymouth /usr/share/plymouth/themes/Violet-Plymouth && sudo plymouth-set-default-theme Violet-Plymouth -R
+```
+
+
 ### Character Assets & IP
 > [!CAUTION]
 > **ALL RIGHTS RESERVED.**
